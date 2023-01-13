@@ -1,0 +1,34 @@
+PATH
+  remote: .
+  specs:
+    hal_openscience (0.1.0)
+      json
+      net-http
+      open-uri
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    date (3.3.3)
+    json (2.6.3)
+    net-http (0.3.2)
+      uri
+    open-uri (0.3.0)
+      stringio
+      time
+      uri
+    rake (13.0.6)
+    stringio (3.0.4)
+    time (0.2.1)
+      date
+    uri (0.12.0)
+
+PLATFORMS
+  arm64-darwin-22
+
+DEPENDENCIES
+  hal_openscience!
+  rake (~> 13.0)
+
+BUNDLED WITH
+   2.3.26
