@@ -5,8 +5,8 @@ require_relative "lib/hal_openscience/version"
 Gem::Specification.new do |spec|
   spec.name = "hal_openscience"
   spec.version = HalOpenscience::VERSION
-  spec.authors = ["Sébastien Gaya"]
-  spec.email = ["sebastien.gaya@noesya.coop"]
+  spec.authors = ["Sébastien Gaya", "Arnaud Levy"]
+  spec.email = ["sebastien.gaya@noesya.coop", "arnaud.levy@noesya.coop"]
 
   spec.summary = "API wrapper for HAL OpenScience"
   spec.homepage = "https://github.com/noesya/hal_openscience"
