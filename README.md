@@ -1,5 +1,7 @@
 # HAL OpenScience
 
+[![Gem Version](https://badge.fury.io/rb/hal_openscience.svg)](https://badge.fury.io/rb/hal_openscience)
+
 API wrapper for [HAL OpenScience](https://hal.science/).
 
 [API official documentation](https://api.archives-ouvertes.fr/docs)
