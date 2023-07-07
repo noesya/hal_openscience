@@ -29,4 +29,5 @@ Gem::Specification.new do |spec|
   spec.add_dependency "json"
   spec.add_dependency "net-http"
   spec.add_dependency "open-uri"
+  spec.add_dependency "bibtex-ruby"
 end

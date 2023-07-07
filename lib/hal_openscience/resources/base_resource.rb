@@ -6,19 +6,19 @@ module HalOpenscience
       raise NotImplementedError
     end
 
-    def self.search(term, fields: [], limit: 30, offset: 0)
+    def self.search(term, fields: [], limit: 30, offset: 0, format: 'json')
       uri = URI.parse(self.repository_url)
       params = {
         q: term,
         rows: limit,
         start: offset,
         fl: fields.join(','),
-        wt: 'json'
+        wt: format
       }
       uri.query = URI.encode_www_form(params)
       body = Net::HTTP.get(uri)
 
-      HalOpenscience::Response.new(body, self)
+      HalOpenscience::Response.new(body, self, format: format)
     end
 
     def initialize(attributes)

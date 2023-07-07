@@ -2,6 +2,7 @@ PATH
   remote: .
   specs:
     hal_openscience (0.1.0)
+      bibtex-ruby
       json
       net-http
       open-uri
@@ -9,8 +10,11 @@ PATH
 GEM
   remote: https://rubygems.org/
   specs:
+    bibtex-ruby (6.0.0)
+      latex-decode (~> 0.0)
     date (3.3.3)
     json (2.6.3)
+    latex-decode (0.4.0)
     net-http (0.3.2)
       uri
     open-uri (0.3.0)
@@ -18,10 +22,10 @@ GEM
       time
       uri
     rake (13.0.6)
-    stringio (3.0.4)
-    time (0.2.1)
+    stringio (3.0.7)
+    time (0.2.2)
       date
-    uri (0.12.0)
+    uri (0.12.2)
 
 PLATFORMS
   arm64-darwin-22

@@ -3,6 +3,7 @@
 require "json"
 require "net/http"
 require "open-uri"
+require "bibtex"
 
 require "hal_openscience/version"
 
