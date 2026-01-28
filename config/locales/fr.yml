@@ -1,194 +1,194 @@
 fr:
   hal_openscience:
     document:
-      type:
-        ART:
-          one: Article dans une revue
-          other: Articles dans une revue
-        COMM:
-          one: Communication dans un congrès
-          other: Communications dans un congrès
-        COUV:
-          one: Chapitre d'ouvrage
-          other: Chapitres d'ouvrages
-        THESE:
-          one: Thèse
-          other: Thèses
-        OUV:
-          one: Ouvrage / Monographie / Livre
-          other: Ouvrages / Monographies / Livres
-        MEM:
-          one: Mémoire d'étudiant
-          other: Mémoires d'étudiant
-        UNDEFINED:
-          one: Pré-publication, Document de travail
-          other: Pré-publications, Documents de travail
-        POSTER:
-          one: Poster de conférence
-          other: Posters de conférences
-        REPORT:
-          one: Rapport
-          other: Rapports
-        OTHER:
-          one: Autre publication scientifique
-          other: Autres publications scientifiques
-        IMG:
-          one: Image
-          other: Images
-        ISSUE:
-          one: Numéro spécial de revue / Numéro thématique de revue / Dossier
-          other: Numéros spéciaux de revue / Numéros thématiques de revue / Dossiers
-        PROCEEDINGS:
-          one: Proceedings/recueil des communications
-          other: Proceedings/recueil des communications
-        NOTICE:
-          one: Notice d’encyclopédie ou de dictionnaire
-          other: Notices d’encyclopédie ou de dictionnaire
-        BLOG:
-          one: Article de blog scientifique
-          other: Articles de blog scientifique
-        HDR:
-          one: Habilitation à Diriger des Recherches (HDR)
-          other: Habilitations à Diriger des Recherches (HDR)
-        PATENT:
-          one: Brevet
-          other: Brevets
-        VIDEO:
-          one: Vidéo
-          other: Vidéos
-        REPORT_LABO:
-          one: Rapport d’évaluation d’une entité de recherche
-          other: Rapports d’évaluation d’une entité de recherche
-        LECTURE:
-          one: Cours
-          other: Cours
-        TRAD:
-          one: Traduction
-          other: Traductions
-        REPORT_MAST:
-          one: Rapport d’évaluation d’un master
-          other: Rapports d’évaluation d’un master
-        REPORT_LPRO:
-          one: Rapport d’évaluation d’une licence professionnelle
-          other: Rapports d’évaluation d’une licence professionnelle
-        REPORT_LICE:
-          one: Rapport d’évaluation d’une licence
-          other: Rapports d’évaluation d’une licence
-        SOFTWARE:
-          one: Logiciel / Code source de logiciel
-          other: Logiciels / Code source de logiciels
-        PRESCONF:
-          one: Document associé à des manifestations scientifiques
-          other: Documents associés à des manifestations scientifiques
-        CREPORT:
-          one: Chapitre de rapport
-          other: Chapitres de rapports
-        SON:
-          one: Son
-          other: Sons
-        REPORT_DOCT:
-          one: Rapport d’évaluation d’une école doctorale
-          other: Rapports d’évaluation d’une école doctorale
-        MAP:
-          one: Carte
-          other: Cartes
-        REPORT_ETAB:
-          one: Rapport d’évaluation d’un établissement
-          other: Rapports d’évaluation d’un établissement
-        REPORT_FORM:
-          one: Rapport d’évaluation d’un champ formations
-          other: Rapports d’évaluation d’un champ formations
-        REPORT_GMAST:
-          one: Rapport d’évaluation d’un grade master
-          other: Rapports d’évaluation d’un grade master
-        NOTE:
-          one: Note de lecture
-          other: Notes de lecture
-        SYNTHESE:
-          one: Note de synthèse
-          other: Notes de synthèse
-        REPORT_FPROJ:
-          one: Rapport d’un champ (domaine) de formations (projet)
-          other: Rapports d’un champ (domaine) de formations (projet)
-        REPORT_GLICE:
-          one: Rapport d’évaluation d’un grade licence
-          other: Rapports d’évaluation d’un grade licence
-        ETABTHESE:
-          one: Thèse d'établissement
-          other: Thèses d'établissement
-        REPACT:
-          one: Rapport d'activité
-          other: Rapports d'activité
-        MEMLIC:
-          one: Mémoire de licence
-          other: Mémoires de licence
-        REPORT_RFOINT:
-          one: Rapport d’évaluation/accréditation d’une formation étrangère
-          other: Rapports d’évaluation/accréditation d’une formation étrangère
-        REPORT_COOR:
-          one: Rapport d’évaluation d’une coordination territoriale
-          other: Rapports d’évaluation d’une coordination territoriale
-        REPORT_RETABINT:
-          one: Rapport d’évaluation/accréditation d’un établissement étranger
-          other: Rapports d’évaluation/accréditation d’un établissement étranger
-        OTHERREPORT:
-          one: Autre rapport, séminaire, workshop
-          other: Autres rapports, séminaires, workshops
       subtype:
-        PHOTOGRAPHY:
-          one: Photographie
-          other: Photographies
-        RESREPORT:
-          one: Rapport de recherche
-          other: Rapports de recherche
-        BOOKREVIEW:
-          one: Compte-rendu de lecture
-          other: Compte-rendus de lecture
         ARTREV:
           one: Article de synthèse
           other: Articles de synthèse
-        TECHREPORT:
-          one: Rapport technique
-          other: Rapports techniques
-        ILLUSTRATION:
-          one: Illustration
-          other: Illustrations
-        DATAPAPER:
-          one: Data paper
-          other: Data papers
-        WORKINGPAPER:
-          one: Working paper
-          other: Working papers
-        PREPRINT:
-          one: Preprints/Prepublications
-          other: Preprints/Prepublications
-        FUNDREPORT:
-          one: Rapport de contrat, de projet / Rapport de fin de contrat / Rapport au financeur
-          other: Rapports de contrat, de projet / Rapports de fin de contrat / Rapports au financeur
-        GRAPHICS:
-          one: Image de synthèse
-          other: Images de synthèse
-        EXPERTREPORT:
-          one: Rapport d’expertise
-          other: Rapports d’expertise
-        SYNTOUV:
-          one: Ouvrage de synthèse
-          other: Ouvrages de synthèse
+        BOOKREVIEW:
+          one: Compte-rendu de lecture
+          other: Compte-rendus de lecture
         CRIT:
           one: Édition critique
           other: Éditions critiques
-        MANUAL:
-          one: Manuel
-          other: Manuels
-        DRAWING:
-          one: Dessin
-          other: Dessins
-        GRAVURE:
-          one: Gravure
-          other: Gravures
+        DATAPAPER:
+          one: Data paper
+          other: Data papers
         DICTIONAR:
           one: Dictionnaire ou encyclopédie
           other: Dictionnaires ou encyclopédies
         DMP:
           one: Plan de gestion de données
           other: Plans de gestion de données
+        DRAWING:
+          one: Dessin
+          other: Dessins
+        EXPERTREPORT:
+          one: Rapport d’expertise
+          other: Rapports d’expertise
+        FUNDREPORT:
+          one: Rapport de contrat, de projet / Rapport de fin de contrat / Rapport au financeur
+          other: Rapports de contrat, de projet / Rapports de fin de contrat / Rapports au financeur
+        GRAPHICS:
+          one: Image de synthèse
+          other: Images de synthèse
+        GRAVURE:
+          one: Gravure
+          other: Gravures
+        ILLUSTRATION:
+          one: Illustration
+          other: Illustrations
+        MANUAL:
+          one: Manuel
+          other: Manuels
+        PHOTOGRAPHY:
+          one: Photographie
+          other: Photographies
+        PREPRINT:
+          one: Preprints/Prepublications
+          other: Preprints/Prepublications
+        RESREPORT:
+          one: Rapport de recherche
+          other: Rapports de recherche
+        SYNTOUV:
+          one: Ouvrage de synthèse
+          other: Ouvrages de synthèse
+        TECHREPORT:
+          one: Rapport technique
+          other: Rapports techniques
+        WORKINGPAPER:
+          one: Working paper
+          other: Working papers
+      type:
+        ART:
+          one: Article dans une revue
+          other: Articles dans une revue
+        BLOG:
+          one: Article de blog scientifique
+          other: Articles de blog scientifique
+        COMM:
+          one: Communication dans un congrès
+          other: Communications dans un congrès
+        COUV:
+          one: Chapitre d'ouvrage
+          other: Chapitres d'ouvrages
+        CREPORT:
+          one: Chapitre de rapport
+          other: Chapitres de rapports
+        ETABTHESE:
+          one: Thèse d'établissement
+          other: Thèses d'établissement
+        HDR:
+          one: Habilitation à Diriger des Recherches (HDR)
+          other: Habilitations à Diriger des Recherches (HDR)
+        IMG:
+          one: Image
+          other: Images
+        ISSUE:
+          one: Numéro spécial de revue / Numéro thématique de revue / Dossier
+          other: Numéros spéciaux de revue / Numéros thématiques de revue / Dossiers
+        LECTURE:
+          one: Cours
+          other: Cours
+        MAP:
+          one: Carte
+          other: Cartes
+        MEM:
+          one: Mémoire d'étudiant
+          other: Mémoires d'étudiant
+        MEMLIC:
+          one: Mémoire de licence
+          other: Mémoires de licence
+        NOTE:
+          one: Note de lecture
+          other: Notes de lecture
+        NOTICE:
+          one: Notice d’encyclopédie ou de dictionnaire
+          other: Notices d’encyclopédie ou de dictionnaire
+        OTHER:
+          one: Autre publication scientifique
+          other: Autres publications scientifiques
+        OTHERREPORT:
+          one: Autre rapport, séminaire, workshop
+          other: Autres rapports, séminaires, workshops
+        OUV:
+          one: Ouvrage / Monographie / Livre
+          other: Ouvrages / Monographies / Livres
+        PATENT:
+          one: Brevet
+          other: Brevets
+        POSTER:
+          one: Poster de conférence
+          other: Posters de conférences
+        PRESCONF:
+          one: Document associé à des manifestations scientifiques
+          other: Documents associés à des manifestations scientifiques
+        PROCEEDINGS:
+          one: Proceedings/recueil des communications
+          other: Proceedings/recueil des communications
+        REPACT:
+          one: Rapport d'activité
+          other: Rapports d'activité
+        REPORT:
+          one: Rapport
+          other: Rapports
+        REPORT_COOR:
+          one: Rapport d’évaluation d’une coordination territoriale
+          other: Rapports d’évaluation d’une coordination territoriale
+        REPORT_DOCT:
+          one: Rapport d’évaluation d’une école doctorale
+          other: Rapports d’évaluation d’une école doctorale
+        REPORT_ETAB:
+          one: Rapport d’évaluation d’un établissement
+          other: Rapports d’évaluation d’un établissement
+        REPORT_FORM:
+          one: Rapport d’évaluation d’un champ formations
+          other: Rapports d’évaluation d’un champ formations
+        REPORT_FPROJ:
+          one: Rapport d’un champ (domaine) de formations (projet)
+          other: Rapports d’un champ (domaine) de formations (projet)
+        REPORT_GLICE:
+          one: Rapport d’évaluation d’un grade licence
+          other: Rapports d’évaluation d’un grade licence
+        REPORT_GMAST:
+          one: Rapport d’évaluation d’un grade master
+          other: Rapports d’évaluation d’un grade master
+        REPORT_LABO:
+          one: Rapport d’évaluation d’une entité de recherche
+          other: Rapports d’évaluation d’une entité de recherche
+        REPORT_LICE:
+          one: Rapport d’évaluation d’une licence
+          other: Rapports d’évaluation d’une licence
+        REPORT_LPRO:
+          one: Rapport d’évaluation d’une licence professionnelle
+          other: Rapports d’évaluation d’une licence professionnelle
+        REPORT_MAST:
+          one: Rapport d’évaluation d’un master
+          other: Rapports d’évaluation d’un master
+        REPORT_RETABINT:
+          one: Rapport d’évaluation/accréditation d’un établissement étranger
+          other: Rapports d’évaluation/accréditation d’un établissement étranger
+        REPORT_RFOINT:
+          one: Rapport d’évaluation/accréditation d’une formation étrangère
+          other: Rapports d’évaluation/accréditation d’une formation étrangère
+        SOFTWARE:
+          one: Logiciel / Code source de logiciel
+          other: Logiciels / Code source de logiciels
+        SON:
+          one: Son
+          other: Sons
+        SYNTHESE:
+          one: Note de synthèse
+          other: Notes de synthèse
+        THESE:
+          one: Thèse
+          other: Thèses
+        TRAD:
+          one: Traduction
+          other: Traductions
+        UNDEFINED:
+          one: Pré-publication, Document de travail
+          other: Pré-publications, Documents de travail
+        VIDEO:
+          one: Vidéo
+          other: Vidéos
