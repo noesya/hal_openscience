@@ -17,7 +17,7 @@ GEM
       stringio
       time
       uri
-    rake (13.0.6)
+    rake (13.3.1)
     stringio (3.2.0)
     time (0.4.2)
       date
@@ -25,6 +25,7 @@ GEM
 
 PLATFORMS
   arm64-darwin-22
+  arm64-darwin-25
   x86_64-darwin-24
 
 DEPENDENCIES
